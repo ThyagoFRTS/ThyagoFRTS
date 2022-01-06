@@ -9,8 +9,7 @@
 ##
 
 <div style="align-items:center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThyagoFRTS&show_icons=true&count_private=true&theme=omni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoFRTS&layout=card&theme=omni">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoFRTS&layout=card&theme=omni">
 </div>
 
 ##
