@@ -1,10 +1,12 @@
-## Hi there. Im ThyagoFRTS || npx.msc || ThyagoKZKR 👋
+<h2 style="text-align: center;">Hi there. Im ThyagoFRTS || npx.msc || ThyagoKZKR 👋</h2>
 
-- 🔭 I’m currently working on mobile
-- 💻 I’m currently learning javascript
-- 🔍 I’m looking for help with javascript kkk
-- 💬 Ask me about python
-- 📌 Fun fact: Kimi no Shiranai Monogatari is present in some repositories
+<p align="center">
+🔭 I’m currently working on machine learning models
+<br>
+💻 I’m currently learning mobile applications
+<br>
+🔍 I’m looking for help with javascript kkk
+</p>
 
 ##
 
@@ -32,6 +34,10 @@
         	<a href = "https://discord.gg/hxURAenW"><img src="https://img.shields.io/badge/Discord-2d2a55?style=for-the-badge&logo=discord&logoColor=white"></a>
 		<a href = "https://www.youtube.com/channel/UC2v6yEKAgPjfH1p3EEJDGAw"><img src="https://img.shields.io/badge/Youtube-ffffff?style=for-the-badge&logo=youtube&logoColor=ff0000"></a>
 	</p>
-</div>	
+</div>
+		
+<p align="center">
+📌 Fun fact: Kimi no Shiranai Monogatari is present in some repositories
+</p>
 
 
