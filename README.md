@@ -1,11 +1,13 @@
-<h2 style="text-align: center;">Hi there. Im ThyagoFRTS || npx.msc || ThyagoKZKR 👋</h2>
+<center>
+	<h2>Hi there. Im ThyagoFRTS || npx.msc || ThyagoKZKR 👋</h2>
+</center>
 
 <p align="center">
 🔭 I’m currently working on machine learning models
 <br>
 💻 I’m currently learning mobile applications
 <br>
-🔍 I’m looking for help with javascript kkk
+🔍 I’m looking for help with web and security
 </p>
 
 ##
