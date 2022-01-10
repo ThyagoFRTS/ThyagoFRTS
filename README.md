@@ -1,14 +1,18 @@
-<center>
-	<h2>Hi there. Im ThyagoFRTS || npx.msc || ThyagoKZKR 👋</h2>
-</center>
+<h2>Hi there. Im ThyagoFRTS || npx.msc || ThyagoKZKR 👋</h2>
 
+<a href = "#"> <img src="https://c.tenor.com/JyKiDmc-IB0AAAAC/coffee.gif" width="200" align="right"></a>	
+<div>
+<br>
+	
 <p align="center">
 🔭 I’m currently working on machine learning models
 <br>
 💻 I’m currently learning mobile applications
 <br>
-🔍 I’m looking for help with web and security
+🔍 I’m looking for help with javascript kkk
 </p>
+<br>
+</div>
 
 ##
 
