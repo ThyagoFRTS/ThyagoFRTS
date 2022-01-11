@@ -1,6 +1,7 @@
 <h2>Hi there. Im ThyagoFRTS || npx.msc || ThyagoKZKR 👋</h2>
 
-<a href = "#"> <img src="https://c.tenor.com/JyKiDmc-IB0AAAAC/coffee.gif" width="200" align="right"></a>	
+<a href = "#"> <img src="https://c.tenor.com/JyKiDmc-IB0AAAAC/coffee.gif" width="200" align="right"></a>
+<a href = "#"> <img src="https://c.tenor.com/JyKiDmc-IB0AAAAC/coffee.gif" width="200" align="left"></a>	
 <div>
 <br>
 	
