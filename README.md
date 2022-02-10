@@ -37,8 +37,8 @@
 
 <div>
 	<p align="center">
-		<a href= "kzkr.thyago@gmail.com"><img src="https://img.shields.io/badge/gmail-c3221f?style=for-the-badge&logo=gmail&logoColor=white"></a>
-        	<a href = "https://discord.gg/hxURAenW"><img src="https://img.shields.io/badge/Discord-2d2a55?style=for-the-badge&logo=discord&logoColor=white"></a>
+		<!--<a href= "kzkr.thyago@gmail.com"><img src="https://img.shields.io/badge/gmail-c3221f?style=for-the-badge&logo=gmail&logoColor=white"></a>
+        	<a href = "https://discord.gg/hxURAenW"><img src="https://img.shields.io/badge/Discord-2d2a55?style=for-the-badge&logo=discord&logoColor=white"></a>-->
 		<a href = "https://www.youtube.com/channel/UC2v6yEKAgPjfH1p3EEJDGAw"><img src="https://img.shields.io/badge/Youtube-ffffff?style=for-the-badge&logo=youtube&logoColor=ff0000"></a>
 	</p>
 </div>
