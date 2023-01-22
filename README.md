@@ -27,7 +27,7 @@
         	<a href = "https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-170"><img src="https://img.shields.io/badge/c%2B%2B-2d2a55?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
 		<a href = "https://www.python.org/"><img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=ffda61"></a>
         	<a href = "https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-9966FF?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
-		<a href = "https://kotlinlang.org/"><img src="https://img.shields.io/badge/Java-ffffff?&style=for-the-badge&logo=java&logoColor=red"></a>
+		<a href = "https://www.java.com/"><img src="https://img.shields.io/badge/Java-ffffff?&style=for-the-badge&logo=oracle&logoColor=red"></a>
 		<a href = "https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Typescript-082e5e?&style=for-the-badge&logo=typescript&logoColor=0076c7"></a>
 		<a href = "https://reactnative.dev/"><img src="https://img.shields.io/badge/React Native-20232a?&style=for-the-badge&logo=react&logoColor=61dafb"></a>
 	</p>
