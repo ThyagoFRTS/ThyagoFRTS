@@ -1,19 +1,20 @@
 <h2>Hi there. Im ThyagoFRTS || npx.msc || ThyagoKZKR 👋</h2>
 
-<a href = "#"> <img src="https://c.tenor.com/JyKiDmc-IB0AAAAC/coffee.gif" width="200" align="right"></a>
-<a href = "#"> <img src="https://c.tenor.com/JyKiDmc-IB0AAAAC/coffee.gif" width="200" align="left"></a>	
-<div>
-<br>
-	
-<p align="center">
-🔭 I’m currently working on machine learning models
-<br>
-💻 I’m currently learning mobile applications
-<br>
-🔍 I’m looking for help with javascript kkk
-</p>
-<br>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="#"><img src="https://c.tenor.com/JyKiDmc-IB0AAAAC/coffee.gif" width="150"></a>
+    </td>
+    <td align="center">
+      🔭 I’m currently working on machine learning models<br>
+      💻 I’m currently learning mobile applications<br>
+      🔍 I’m looking for help with JavaScript kkk<br>
+    </td>
+    <td align="center" width="150">
+      <a href="#"><img src="https://c.tenor.com/JyKiDmc-IB0AAAAC/coffee.gif" width="150"></a>
+    </td>
+  </tr>
+</table>
 
 ##
 
